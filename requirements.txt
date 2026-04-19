@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-ollama
+faiss-cpu
+pypdf
+faster-whisper
+pytesseract
+Pillow

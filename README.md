@@ -6,6 +6,12 @@ It supports voice input, image understanding, and PDF-based question answering.
 
 ---
 
+## 🚀 Live Demo
+
+👉  https://ai-student-assistant-qjbftpee4bmx2tzltexqhu.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 * 💬 ChatGPT-style conversational interface

@@ -6,3 +6,5 @@ pypdf
 faster-whisper
 pytesseract
 Pillow
+langchain-community
+ 

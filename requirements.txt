@@ -7,4 +7,9 @@ faster-whisper
 pytesseract
 Pillow
 langchain-community
+pdfplumber
+bcrypt
+scikit-learn
+numpy
+spacy==3.7.2
  
